@@ -1,0 +1,20 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+.btn {
+    width: 68px;
+    margin: auto;
+    /* text-align: center; */
+    background: gainsboro;
+    padding: 6px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: -15px;
+}
+img.profileImg {
+    display: block;
+    width: 80%;
+    margin: auto;
+}
