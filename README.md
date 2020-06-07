@@ -1,4 +1,6 @@
 # Frontend Mentor - Coding Bootcamp Testimonials Slider
+preview link
+## https://chamumutezva.github.io/coding-bootcamp-testimonials-slider-master/
 
 ![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./design/desktop-preview.jpg)
 
